@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Thi thing is that sometimes we do unintentional mistakes, when editing
+    a document. So was with the last file. When adding another high-tech
+    stuff to the document the developer did a mistake and added some 
+    bullshit. The diff command can see the difference in those files
+    and by this helps to recognize and to get rid of a mistake.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    SOmetimes a programmer could do a mistake that affects a part of a 
+    code and for this reason short term savings of a version control is in handy. But when you do, say, long term refactoring on your project it is crucially important to have an access to your old files. You can even get it all wrong, so the previous versions are in help
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    In my opinion the choices are predetermined by the types of documents you are to 
+    change and commit. For Docs like your essay the autocommit is good, because you
+    mainly add new stuff to document, but not change overall logic like you can by changing a few line of code.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    git and related systems are code-oriented, it is where all the files are tighly related
+    with each other. The Google docs on the other hand, does interact with the files that 
+    live in separate sandhours.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    When there is a need to see the history of the files, we dill look for the right commit by looking at the date and the message passed. When right commit found just compare with  any other commit in the project to see what you could've mistakenly changed when 
+    was working on the project.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Pretty confident. Now, at any point in time we can do revert, retrieving the precious verstion of the project.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it for my first serious project in Android studio.
