@@ -17,10 +17,17 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	There are plenty of sityations when branching helps. For instance you've decided to make a new bonus level to your game but not sure that it'll work out. So, create new branch and add this feature to the game.
+
 How do the diagrams help you visualize the branch structure?
+
+	Diagrams help to visualize the branch structure in a way that it becomes obvious where and when the branches were created and which changes are saved or discarded.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	The two merged branches is the one branch that represents all the features added to the 
+	both branches. The diagram represents the commits that are being merged, so its convenient.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
