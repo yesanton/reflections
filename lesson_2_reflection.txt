@@ -31,3 +31,6 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	It is impossible to know if you are merging the files that are consistent in a way that 
+	any on two do not break the overall logic of the program, therefore it is better to do commits manually.
