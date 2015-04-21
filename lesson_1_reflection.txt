@@ -18,7 +18,7 @@ docs does?
 
     In my opinion the choices are predetermined by the types of documents you are to 
     change and commit. For Docs like your essay the autocommit is good, because you
-    mainly add new stuff to document, but not change overall logic like you can by changing a few line of code.
+    mainly add new stuff to document, but not change overall logic like you can by changing a few line of code..
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?

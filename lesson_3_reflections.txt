@@ -28,7 +28,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We can you mailing system or even hard drive sharing. The harder thing would be moving 
+    files around, and keeping track of them. Also, the hard thing is to merge them into one project, and keeping versions, even though we can use command like "diff" to find differenced between files.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
