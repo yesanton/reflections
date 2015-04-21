@@ -34,4 +34,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The new features, experimental stuff goes into new branches, also when you work in teams it is great to have a way to work on different new things in the code, and onle after completion of the new "thing" to merge by branch merging.
